@@ -1,4 +1,5 @@
-## Hi there 👋
+💫 About Me:
+I am an aspiring full-stack developer with a passion for building dynamic and responsive web applications. Proficient in HTML, CSS, JavaScript, and React, I am dedicated to learning and mastering new technologies to create efficient, scalable solutions. With a keen interest in both frontend and backend development, I am continuously working to expand my skill set and contribute to innovative projects in the tech industry.
 
 <!--
 **DeepaSingh04/DeepaSingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
