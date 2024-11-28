@@ -2,10 +2,15 @@
 
 
 🔭 I’m currently focusing on building and improving my skills in Full Stack Development.
+
 🌱 Constantly learning new technologies and open to exciting opportunities to collaborate and grow.
+
 👨‍💻 Check out all my projects.
+
 💬 Feel free to ask me about: HTML, CSS, JavaScript, MongoDB, SQL, React, Python.
+
 📫 How to reach me: deepadhakad04@gmail.com
+
 ⚡ Fun fact: I have a passion for designing innovative and immersive web experiences.
 
 
